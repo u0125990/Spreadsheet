@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spreadsheet IsValid="^.*$">
+  <cell name="A2" contents="=A1+0.5"></cell>
+  <cell name="A1" contents="1.5"></cell>
+</spreadsheet>
